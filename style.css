@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #0f172a, #1e3a8a);
+    background: linear-gradient(135deg, #170f2a, #2e1e8a);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -23,12 +23,12 @@ body {
 }
 
 h1 {
-    color: #1e3a8a;
+    color: #4f1e8a;
     margin-bottom: 15px;
 }
 
 h2 {
-    color: #475569;
+    color: #494769;
     margin-bottom: 20px;
 }
 
